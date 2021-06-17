@@ -9,3 +9,5 @@ This is a Todo-list app, created with node, the app its in spanish, you can:
 5. Complete tasks (this option allows you to complete different tasks, the completed tasks have the point on green, you can touch the space bar to change the state)
 6. Delete a task
 0. exit
+
+*** The tasks are stored in a JSON file, at the moment it does not work with databases.***
